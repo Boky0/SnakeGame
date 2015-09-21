@@ -1,2 +1,2 @@
 # SnakeGame
-Snake game for mobile phone
+Snake game for mobile phone.
